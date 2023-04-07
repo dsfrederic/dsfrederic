@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [fredericdesmet.be](fredericdesmet.be)
 
-- 💬 Ask me about **Azure, Azure DevOps, PowerShell, ...**
+- 💬 Ask me about **Azure, Azure DevOps, Terraform, PowerShell, ...**
 
 - 📫 How to reach me **fredericdesmet@live.be**
 
